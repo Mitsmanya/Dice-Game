@@ -1,0 +1,16 @@
+.dice-container{
+    line-height: 0px;
+
+}
+
+.dice-container img{
+    margin-left: 90vh;
+    height: 150px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.dice-container p{
+    margin-left: 83vh;
+}
+
